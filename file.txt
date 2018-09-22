@@ -1,2 +1,3 @@
 Added one more file
 Inserted another line in file.txt file
+Inserted 3rd line
